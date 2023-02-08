@@ -1,5 +1,7 @@
 # Projects
-# For this project I collected data from the National Center for Education Statistics. Data from a total of 404 colleges/universities was analyzed
+# College Graduation Rate Predictor Model
+
+For this project I collected data from the National Center for Education Statistics. Data from a total of 404 colleges/universities was analyzed
 Specific variables selected to for the query were as follows: state abbreviations, percent of students admitted, graduation rate total cohort, graduation rate for men,
 graduation rate for women, core revenues, student to faculty ratio, in-state tuition and fees, out-of-state tuition and fees, 
 percent of full-time first-time undergraduates awarded pell grants, full-time first-time undergraduates awarded any financial aid, ACT Composite 75th Percentile Score,
