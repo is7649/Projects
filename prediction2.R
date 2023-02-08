@@ -1,5 +1,5 @@
 # import data from graduation.csv file
-grad_file <- read.csv("copy_graduation.csv")
+grad_file <- read.csv("graduation.csv")
 
 # view again csv
 grad_file
